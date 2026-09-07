@@ -6,7 +6,7 @@ This repository holds the machine-readable corpus and the verification code that
 
 | File | What it is |
 |---|---|
-| `methods_table.csv` | The full 110-method comparison table in machine-readable form, viz. one row per method with year, family, decision mechanism, verdict (AUTO / AUTO-dagger / RANGE / SUBST / NOT-AUTO), range requirement, user parameters, cost, scaling behaviour, failure modes and the DOI or identifier of the source paper. |
+| `methods_table.csv` | The full 110-method comparison table in the machine-readable form, viz. one row per method with year, family, decision mechanism, verdict (AUTO / AUTO-dagger / RANGE / SUBST / NOT-AUTO), range requirement, user parameters, cost, scaling behaviour, failure modes and the DOI or identifier of the source paper. |
 | `ref_records.json` | One record per reference entry of the paper: entry number, DOI or arXiv identifier as printed, caution flag, and the plain text of the entry. |
 | `caution_refs.json` | The entry numbers of the 31 references that carry a caution mark in the paper. |
 | `verify_refs.py` | Script that re-resolves every identifier against Crossref, DataCite and arXiv and checks the record title against the printed entry. Writes `verification_report.csv`. |
