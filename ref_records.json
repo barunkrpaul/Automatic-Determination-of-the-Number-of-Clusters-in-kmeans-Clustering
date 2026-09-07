@@ -1,0 +1,2124 @@
+[
+ {
+  "ref": 1,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "1602.06687",
+  "caution": false,
+  "entry": "M. Ackerman, A. Adolfsson, and N. Brownstein. An effective and efficient approach for clusterability evaluation. arXiv:1602.06687, 2016."
+ },
+ {
+  "ref": 2,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. Ackerman and S. Ben-David. Measures of clustering quality: a working set of axioms for clustering. In Advances in Neural Information Processing Systems 21 (NIPS 2008). (No DOI.)"
+ },
+ {
+  "ref": 3,
+  "doi": "10.1016/j.patcog.2018.10.026",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Adolfsson, M. Ackerman, and N. C. Brownstein. To cluster, or not to cluster: an analysis of clusterability methods. Pattern Recognition, 88:13--26, 2019. DOI 10.1016/j.patcog.2018.10.026."
+ },
+ {
+  "ref": 4,
+  "doi": "10.1109/ACCESS.2019.2960925",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. B. Agbaje, A. E. Ezugwu, and R. Els. Automatic data clustering using hybrid firefly particle swarm optimization algorithm. IEEE Access, 7, 2019. DOI 10.1109/ACCESS.2019.2960925."
+ },
+ {
+  "ref": 5,
+  "doi": "10.1007/s11222-020-09958-2",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. E. Akhanli and C. Hennig. Comparing clusterings and numbers of clusters by aggregation of calibrated clustering validity indexes. Statistics and Computing, 30(5):1523--1544, 2020. DOI 10.1007/s11222-020-09958-2."
+ },
+ {
+  "ref": 6,
+  "doi": "10.47839/ijc.22.4.3350",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "T. A. Akinosho et al. Comparative evaluation of data stream clustering algorithms under varying parameter settings. International Journal of Computing, 22(4), 2023. DOI 10.47839/ijc.22.4.3350."
+ },
+ {
+  "ref": 7,
+  "doi": "10.1111/sjos.12739",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "L. Alamichel, D. Bystrova, J. Arbel, and G. Kon Kam King. Bayesian mixture models (in)consistency for the number of clusters. Scandinavian Journal of Statistics, 51(4):1619--1660, 2024. DOI 10.1111/sjos.12739."
+ },
+ {
+  "ref": 8,
+  "doi": "10.5391/ijfis.2022.22.3.267",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "H. A. A. Al-Khamees, N. Al-A'araji, and E. S. Al-Shamery. An evolving fuzzy model to determine an optimal number of data stream clusters. International Journal of Fuzzy Logic and Intelligent Systems, 22(3):267, 2022. DOI 10.5391/ijfis.2022.22.3.267."
+ },
+ {
+  "ref": 9,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2605.14824",
+  "caution": false,
+  "entry": "L. Andrianirina and M. Carri\u00e8re. ToMAToMP: robust and multi-parameter topological clustering. arXiv:2605.14824, 2026."
+ },
+ {
+  "ref": 10,
+  "doi": "10.1145/304182.304187",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. Ankerst, M. M. Breunig, H.-P. Kriegel, and J. Sander. OPTICS: ordering points to identify the clustering structure. In Proceedings of ACM SIGMOD 1999, pages 49--60. DOI 10.1145/304182.304187."
+ },
+ {
+  "ref": 11,
+  "doi": "10.1016/j.softx.2025.102161",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. Antunes, T. Estro, P. Bhandari, A. Gandhi, G. Kuenning, Y. Liu, C. Waldspurger, A. Wildani, and E. Zadok. Kneeliverse: a universal knee-detection library for performance curves. SoftwareX, 30:102161, 2025. DOI 10.1016/j.softx.2025.102161."
+ },
+ {
+  "ref": 12,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": true,
+  "entry": "K. Arai. Improved ISODATA clustering method with parameter estimation based on genetic algorithm. International Journal of Advanced Computer Science and Applications, 13(5):187--193, 2022. The publisher supplies no DOI."
+ },
+ {
+  "ref": 13,
+  "doi": "10.1007/s11721-021-00202-9",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "C. Aranha, C. L. Camacho-Villal\u00f3n, F. Campelo, M. Dorigo, R. Ruiz, M. Sevaux, K. S\u00f6rensen, and T. St\u00fctzle. Metaphor-based metaheuristics, a call for action: the elephant in the room. Swarm Intelligence, 16:1--6, 2022. DOI 10.1007/s11721-021-00202-9."
+ },
+ {
+  "ref": 14,
+  "doi": "10.1016/j.patcog.2012.07.021",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "O. Arbelaitz, I. Gurrutxaga, J. Muguerza, J. M. P\u00e9rez, and I. Perona. An extensive comparative study of cluster validity indices. Pattern Recognition, 46(1):243--256, 2013. DOI 10.1016/j.patcog.2012.07.021."
+ },
+ {
+  "ref": 15,
+  "doi": "10.1093/biomet/asac051",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "F. Ascolani, A. Lijoi, G. Rebaudo, and G. Zanella. Clustering consistency with Dirichlet process mixtures. Biometrika, 110(2):551--558, 2023. DOI 10.1093/biomet/asac051."
+ },
+ {
+  "ref": 16,
+  "doi": "10.1109/TPAMI.2019.2924953",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "H. Averbuch-Elor, N. Bar, and D. Cohen-Or. Border-peeling clustering. IEEE Transactions on Pattern Analysis and Machine Intelligence, 42(7):1791--1797, 2020. DOI 10.1109/TPAMI.2019.2924953."
+ },
+ {
+  "ref": 17,
+  "doi": "10.1109/CVPR.2006.289",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Azran and Z. Ghahramani. Spectral methods for automatic multiscale data clustering. In IEEE CVPR 2006, volume 1, pages 190--197. DOI 10.1109/CVPR.2006.289."
+ },
+ {
+  "ref": 18,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "O. Bachem, M. Lucic, and A. Krause. Coresets for nonparametric estimation: the case of DP-means. In Proceedings of ICML 2015. (No DOI minted by the venue.)"
+ },
+ {
+  "ref": 19,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2510.13065",
+  "caution": true,
+  "entry": "A. M. Bagirov, R. M. Aliguliyev, N. Sultanova, and S. Taheri. Absolute indices for determining compactness, separability and number of clusters. arXiv:2510.13065, 2025. Journal placement not confirmed."
+ },
+ {
+  "ref": 20,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2402.15600",
+  "caution": false,
+  "entry": "Y. Bai and H. Chen. A graph-based approach to estimating the number of clusters in high-dimensional settings. arXiv:2402.15600, 2024."
+ },
+ {
+  "ref": 21,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "G. H. Ball and D. J. Hall. ISODATA, a novel method of data analysis and pattern classification. Technical report, Stanford Research Institute, Menlo Park, 1965. DTIC accession AD0699616. (No DOI.)"
+ },
+ {
+  "ref": 22,
+  "doi": "10.1016/S0031-3203(01)00108-X",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. Bandyopadhyay and U. Maulik. Genetic clustering for automatic evolution of clusters and application to image classification. Pattern Recognition, 35(6):1197--1208, 2002. DOI 10.1016/S0031-3203(01)00108-X."
+ },
+ {
+  "ref": 23,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2510.14145",
+  "caution": false,
+  "entry": "M. Baragilly and H. Gabr. High-dimensional BWDM: a robust nonparametric clustering validation index for large-scale data. arXiv:2510.14145, 2025."
+ },
+ {
+  "ref": 24,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Benavoli, G. Corani, and F. Mangili. Should we really use post-hoc tests based on mean-ranks? Journal of Machine Learning Research, 17(5):1--10, 2016. (JMLR mints no DOI.)"
+ },
+ {
+  "ref": 25,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Benavoli, G. Corani, J. Dem sar, and M. Zaffalon. Time for a change: a tutorial for comparing multiple classifiers through Bayesian analysis. Journal of Machine Learning Research, 18(77):1--36, 2017. (JMLR mints no DOI.)"
+ },
+ {
+  "ref": 26,
+  "doi": "10.1007/11776420_4",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. Ben-David, U. von Luxburg, and D. P\u00e1l. A sober look at clustering stability. In Conference on Learning Theory (COLT 2006). DOI 10.1007/11776420_4."
+ },
+ {
+  "ref": 27,
+  "doi": "10.1007/978-3-540-72927-3_4",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. Ben-David, D. P\u00e1l, and H. U. Simon. Stability of k-means clustering. In Conference on Learning Theory (COLT 2007). DOI 10.1007/978-3-540-72927-3_4."
+ },
+ {
+  "ref": 28,
+  "doi": "10.1142/9789812799623_0002",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Ben-Hur, A. Elisseeff, and I. Guyon. A stability based method for discovering structure in clustered data. In Pacific Symposium on Biocomputing 2002, pages 6--17. DOI 10.1142/9789812799623_0002."
+ },
+ {
+  "ref": 29,
+  "doi": "10.1016/j.ins.2019.12.022",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "C. G. Bezerra, B. S. J. Costa, L. A. Guedes, and P. P. Angelov. An evolving approach to data streams clustering based on typicality and eccentricity data analytics. Information Sciences, 518, 2020. DOI 10.1016/j.ins.2019.12.022."
+ },
+ {
+  "ref": 30,
+  "doi": "10.1214/06-BA104",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "D. M. Blei and M. I. Jordan. Variational inference for Dirichlet process mixtures. Bayesian Analysis, 1(1):121--143, 2006. DOI 10.1214/06-BA104."
+ },
+ {
+  "ref": 31,
+  "doi": "10.1103/PhysRevE.103.012105",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "T. Bonnaire, A. Decelle, and N. Aghanim. Cascade of phase transitions for multiscale clustering. Physical Review E, 103(1):012105, 2021. DOI 10.1103/PhysRevE.103.012105."
+ },
+ {
+  "ref": 32,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2007.04470",
+  "caution": false,
+  "entry": "D. Cai, T. Campbell, and T. Broderick. Finite mixture models do not reliably learn the number of components. In Proceedings of ICML 2021, PMLR 139:1158--1169. (PMLR mints no DOI.) Preprint arXiv:2007.04470."
+ },
+ {
+  "ref": 33,
+  "doi": "10.1080/03610927408827101",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "T. Cali'nski and J. Harabasz. A dendrite method for cluster analysis. Communications in Statistics -- Theory and Methods, 3(1):1--27, 1974. DOI 10.1080/03610927408827101."
+ },
+ {
+  "ref": 34,
+  "doi": "10.32614/RJ-2016-017",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "B. Calvo and G. Santaf\u00e9. scmamp: statistical comparison of multiple algorithms in multiple problems. The R Journal, 8(1), 2016. DOI 10.32614/RJ-2016-017."
+ },
+ {
+  "ref": 35,
+  "doi": "10.1111/itor.13176",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "C. L. Camacho-Villal\u00f3n, M. Dorigo, and T. St\u00fctzle. Exposing the grey wolf, moth-flame, whale, firefly, bat, and antlion algorithms: six misleading optimization techniques inspired by bestial metaphors. International Transactions in Operational Research, 30(6):2945--2971, 2023. DOI 10.1111/itor.13176."
+ },
+ {
+  "ref": 36,
+  "doi": "10.1145/2733381",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "R. J. G. B. Campello, D. Moulavi, A. Zimek, and J. Sander. Hierarchical density estimates for data clustering, visualization, and outlier detection. ACM Transactions on Knowledge Discovery from Data, 10(1):1--51, 2015. DOI 10.1145/2733381."
+ },
+ {
+  "ref": 37,
+  "doi": "10.3390/app12136464",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "P. G. L. C\u00e2ndido, J. A. Silva, E. R. Faria, and M. C. Naldi. Optimization algorithms for scalable stream batch clustering with k estimation. Applied Sciences, 12(13):6464, 2022. DOI 10.3390/app12136464."
+ },
+ {
+  "ref": 38,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2601.00892",
+  "caution": false,
+  "entry": "A. Carpio and G. Duro. Hierarchical topological clustering. arXiv:2601.00892, 2026."
+ },
+ {
+  "ref": 39,
+  "doi": "10.1214/20-EJS1679",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Casa, J. E. Chac\u00f3n, and G. Menardi. Modal clustering asymptotics with applications to bandwidth selection. Electronic Journal of Statistics, 14(1), 2020. DOI 10.1214/20-EJS1679."
+ },
+ {
+  "ref": 40,
+  "doi": "10.1016/j.spl.2025.110509",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Casa, A. Cappozzo, and H. D. Nguyen. Confidence set for mixture order selection. Statistics & Probability Letters, 2025. DOI 10.1016/j.spl.2025.110509."
+ },
+ {
+  "ref": 41,
+  "doi": "10.1109/TPAMI.2026.3669975",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": true,
+  "entry": "S. Chakrabarty et al. Near-perfect clustering based on recursive binary splitting using Max-MMD. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026. Indexed DOI 10.1109/TPAMI.2026.3669975 is internally inconsistent with the stated year; verify before citing."
+ },
+ {
+  "ref": 42,
+  "doi": "10.48550/arXiv.1910.02566",
+  "extra_dois": [],
+  "arxiv": "1910.02566",
+  "caution": false,
+  "entry": "P. Chakravarti, S. Balakrishnan, and L. Wasserman. Gaussian mixture clustering using relative tests of fit. arXiv:1910.02566, 2019. DOI 10.48550/arXiv.1910.02566."
+ },
+ {
+  "ref": 43,
+  "doi": "10.1145/3200947.3201008",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "T. Chamalis and A. Likas. The projected dip-means clustering algorithm. In SETN '18: 10th Hellenic Conference on Artificial Intelligence. ACM, 2018. DOI 10.1145/3200947.3201008."
+ },
+ {
+  "ref": 44,
+  "doi": "10.1145/2535927",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "F. Chazal, L. J. Guibas, S. Y. Oudot, and P. Skraba. Persistence-based clustering in Riemannian manifolds. Journal of the ACM, 60(6):1--38, 2013. DOI 10.1145/2535927."
+ },
+ {
+  "ref": 45,
+  "doi": "10.1080/01621459.2021.1999820",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "H. Chen, Y. Wang, and H. Zhao. Data-driven selection of the number of change-points via error rate control. Journal of the American Statistical Association, 2021. DOI 10.1080/01621459.2021.1999820."
+ },
+ {
+  "ref": 46,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2203.15267",
+  "caution": false,
+  "entry": "Y. T. Chen and D. M. Witten. Selective inference for k-means clustering. Journal of Machine Learning Research, 2023. (JMLR mints no DOI.) Preprint arXiv:2203.15267."
+ },
+ {
+  "ref": 47,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2012.06522",
+  "caution": false,
+  "entry": "R. Chhaya, S. Shit, and A. Dasgupta. Online coresets for clustering with Bregman divergences. arXiv:2012.06522, 2020; journal version 2022."
+ },
+ {
+  "ref": 48,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2212.00334",
+  "caution": false,
+  "entry": "F. Chiaroni, J. Dolz, Z. I. Masud, A. Mitiche, and I. Ben Ayed. Parametric information maximization for generalized category discovery. In IEEE/CVF ICCV 2023. (No DOI.) Preprint arXiv:2212.00334."
+ },
+ {
+  "ref": 49,
+  "doi": "10.7717/peerj-cs.3309",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "D. Chicco, A. Campagner, F. Spagnolo, D. Ciucci, and G. Jurman. The Silhouette coefficient and the Davies--Bouldin index are more informative than Dunn index, Calinski--Harabasz index, Shannon entropy, and gap statistic for unsupervised clustering internal evaluation of two convex clusters. PeerJ Computer Science, 11:e3309, 2025. DOI 10.7717/peerj-cs.3309."
+ },
+ {
+  "ref": 50,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2404.09451",
+  "caution": false,
+  "entry": "S. Choi, D. Kang, and M. Cho. Contrastive mean-shift learning for generalized category discovery. In IEEE/CVF CVPR 2024. (No DOI.) Preprint arXiv:2404.09451."
+ },
+ {
+  "ref": 51,
+  "doi": "10.5555/3327757.3327943",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": true,
+  "entry": "V. Cohen-Addad, V. Kanade, and F. Mallmann-Trenn (with S. Ben-David and co-authors on the axioms line). Clustering redemption: beyond the impossibility of Kleinberg's axioms. In Advances in Neural Information Processing Systems (NeurIPS 2018). ACM identifier 10.5555/3327757.3327943. Author list not independently confirmed."
+ },
+ {
+  "ref": 52,
+  "doi": "10.1109/34.1000236",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "D. Comaniciu and P. Meer. Mean shift: a robust approach toward feature space analysis. IEEE Transactions on Pattern Analysis and Machine Intelligence, 24(5):603--619, 2002. DOI 10.1109/34.1000236."
+ },
+ {
+  "ref": 53,
+  "doi": "10.1109/ICPR.2016.7899984",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": true,
+  "entry": "M. Comiter, M. Cha, H. T. Kung, and S. Teerapittayanon. Lambda means clustering: automatic parameter search and distributed computing implementation. In International Conference on Pattern Recognition (ICPR 2016). DOI 10.1109/ICPR.2016.7899984. DOI not independently resolved."
+ },
+ {
+  "ref": 54,
+  "doi": "10.1007/978-3-031-85870-3_9",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "E. Costa, I. Papatsouma, and A. Markos. A deterministic information bottleneck method for clustering mixed-type data. In Data Science, Classification, and Artificial Intelligence for Modeling Decision Making, pages 81--88. Springer, 2025. DOI 10.1007/978-3-031-85870-3_9."
+ },
+ {
+  "ref": 55,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2601.20628",
+  "caution": false,
+  "entry": "E. Costa, I. Papatsouma, and A. Markos. Sparse clustering via the deterministic information bottleneck algorithm. arXiv:2601.20628, 2026."
+ },
+ {
+  "ref": 56,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2509.25016",
+  "caution": false,
+  "entry": "M. Curie and P. da Costa. CLASP: adaptive spectral clustering for unsupervised per-image segmentation. arXiv:2509.25016, 2025."
+ },
+ {
+  "ref": 57,
+  "doi": "10.1016/j.patcog.2019.06.014",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Aksac, T. \u00d6zyer, and R. Alhajj. CutESC: cutting edge spatial clustering technique based on proximity graphs. Pattern Recognition, 96:106948, 2019. DOI 10.1016/j.patcog.2019.06.014."
+ },
+ {
+  "ref": 58,
+  "doi": "10.1080/00949655.2017.1374387",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": true,
+  "entry": "G. B. Cybis, M. Valk, and S. R. C. Pinheiro. Clustering and classification problems in genetics through U-statistics. Journal of Statistical Computation and Simulation, 2018. DOI 10.1080/00949655.2017.1374387. Author list not independently confirmed."
+ },
+ {
+  "ref": 59,
+  "doi": "10.1109/TSMCA.2007.909595",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. Das, A. Abraham, and A. Konar. Automatic clustering using an improved differential evolution algorithm. IEEE Transactions on Systems, Man and Cybernetics, Part A, 38(1):218--237, 2008. DOI 10.1109/TSMCA.2007.909595."
+ },
+ {
+  "ref": 60,
+  "doi": "10.1109/TPAMI.1979.4766909",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "D. L. Davies and D. W. Bouldin. A cluster separation measure. IEEE Transactions on Pattern Analysis and Machine Intelligence, 1(2):224--227, 1979. DOI 10.1109/TPAMI.1979.4766909."
+ },
+ {
+  "ref": 61,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "J. Dem sar. Statistical comparisons of classifiers over multiple data sets. Journal of Machine Learning Research, 7:1--30, 2006. (JMLR mints no DOI.)"
+ },
+ {
+  "ref": 62,
+  "doi": "10.1007/s11042-023-15704-3",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Dey, S. Bhattacharyya, S. Dey, J. Plato s, and V. Sn'a sel. A quantum inspired differential evolution algorithm for automatic clustering of real life datasets. Multimedia Tools and Applications, 2023. DOI 10.1007/s11042-023-15704-3."
+ },
+ {
+  "ref": 63,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "O. Dinari and O. Freifeld. Revisiting DP-means: fast scalable algorithms via parallelism and delayed cluster creation. In Proceedings of UAI 2022, PMLR 180:579--588. (PMLR mints no DOI.)"
+ },
+ {
+  "ref": 64,
+  "doi": "10.1111/rssb.12187",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. Drton and M. Plummer. A Bayesian information criterion for singular models. Journal of the Royal Statistical Society Series B, 79(2):323--380, 2017. DOI 10.1111/rssb.12187."
+ },
+ {
+  "ref": 65,
+  "doi": "10.1016/j.eswa.2023.119784",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "X. Duan, Y. Ma, Y. Zhou, H. Huang, and B. Wang. A novel cluster validity index based on augmented non-shared nearest neighbors. Expert Systems with Applications, 223:119784, 2023. DOI 10.1016/j.eswa.2023.119784."
+ },
+ {
+  "ref": 66,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "1810.08537",
+  "caution": false,
+  "entry": "L. L. Duan and D. B. Dunson. Bayesian distance clustering. Journal of Machine Learning Research, 22(224):1--27, 2021. (JMLR mints no DOI.) Preprint arXiv:1810.08537."
+ },
+ {
+  "ref": 67,
+  "doi": "10.1007/s00521-024-09443-1",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "B. Erdin\u00e7, M. Kaya, and A. enol. MCMSTStream: applying minimum spanning tree to KD-tree-based micro-clusters to define arbitrary-shaped clusters in streaming data. Neural Computing and Applications, 2024. DOI 10.1007/s00521-024-09443-1."
+ },
+ {
+  "ref": 68,
+  "doi": "10.1080/01621459.1995.10476550",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. D. Escobar and M. West. Bayesian density estimation and inference using mixtures. Journal of the American Statistical Association, 90(430):577--588, 1995. DOI 10.1080/01621459.1995.10476550."
+ },
+ {
+  "ref": 69,
+  "doi": "10.1007/s42452-020-2073-0",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. E. Ezugwu. Nature-inspired metaheuristic techniques for automatic clustering: a survey and performance study. SN Applied Sciences, 2, 2020. DOI 10.1007/s42452-020-2073-0."
+ },
+ {
+  "ref": 70,
+  "doi": "10.1016/j.csda.2011.09.003",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "Y. Fang and J. Wang. Selection of the number of clusters via the bootstrap method. Computational Statistics & Data Analysis, 56(3):468--477, 2012. DOI 10.1016/j.csda.2011.09.003."
+ },
+ {
+  "ref": 71,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "Y. Feng and G. Hamerly. PG-means: learning the number of clusters in data. In Advances in Neural Information Processing Systems 19 (NIPS 2006). (No DOI.)"
+ },
+ {
+  "ref": 72,
+  "doi": "10.1109/34.990138",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. A. T. Figueiredo and A. K. Jain. Unsupervised learning of finite mixture models. IEEE Transactions on Pattern Analysis and Machine Intelligence, 24(3):381--396, 2002. DOI 10.1109/34.990138."
+ },
+ {
+  "ref": 73,
+  "doi": "10.1109/TPAMI.2005.113",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. L. N. Fred and A. K. Jain. Combining multiple clusterings using evidence accumulation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 27(6):835--850, 2005. DOI 10.1109/TPAMI.2005.113."
+ },
+ {
+  "ref": 74,
+  "doi": "10.14778/3407790.3407813",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. Fritz, M. Behringer, and H. Schwarz. LOG-Means: efficiently estimating the number of clusters in large datasets. Proceedings of the VLDB Endowment, 13(11):2118--2131, 2020. DOI 10.14778/3407790.3407813. Note: the Crossref record gives the issue as 13(12) while the PDF header gives 13(11)."
+ },
+ {
+  "ref": 75,
+  "doi": "10.1007/s00778-021-00716-y",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. Fritz, M. Behringer, D. Tschechlov, and H. Schwarz. Efficient exploratory clustering analyses in large-scale exploration processes. The VLDB Journal, 31(4):711--732, 2022. DOI 10.1007/s00778-021-00716-y."
+ },
+ {
+  "ref": 76,
+  "doi": "10.1214/21-BA1294",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. Fr\u00fchwirth-Schnatter, G. Malsiner-Walli, and B. Gr\u00fcn. Generalized mixtures of finite mixtures and telescoping sampling. Bayesian Analysis, 16(4), 2021. DOI 10.1214/21-BA1294."
+ },
+ {
+  "ref": 77,
+  "doi": "10.1080/10618600.2019.1647846",
+  "extra_dois": [],
+  "arxiv": "1702.02658",
+  "caution": false,
+  "entry": "W. Fu and P. O. Perry. Estimating the number of clusters using cross-validation. Journal of Computational and Graphical Statistics, 29(1):162--173, 2020. DOI 10.1080/10618600.2019.1647846. Preprint arXiv:1702.02658."
+ },
+ {
+  "ref": 78,
+  "doi": "10.1016/j.ins.2021.10.004",
+  "extra_dois": [],
+  "arxiv": "2208.01261",
+  "caution": false,
+  "entry": "M. Gagolewski, M. Bartoszuk, and A. Cena. Are cluster validity measures (in)valid? Information Sciences, 581:620--636, 2021. DOI 10.1016/j.ins.2021.10.004. Preprint arXiv:2208.01261."
+ },
+ {
+  "ref": 79,
+  "doi": "10.1016/j.softx.2022.101270",
+  "extra_dois": [
+   "10.5281/zenodo.7088171"
+  ],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. Gagolewski. A framework for benchmarking clustering algorithms. SoftwareX, 20:101270, 2022. DOI 10.1016/j.softx.2022.101270. Data: Benchmark Suite v1.1.0, Zenodo 10.5281/zenodo.7088171."
+ },
+ {
+  "ref": 80,
+  "doi": "10.1007/s00357-024-09482-2",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. Gagolewski. Normalised clustering accuracy: an asymmetric external cluster validity measure. Journal of Classification, 42(1):2--30, 2025. DOI 10.1007/s00357-024-09482-2."
+ },
+ {
+  "ref": 81,
+  "doi": "10.1080/01621459.2022.2116331",
+  "extra_dois": [],
+  "arxiv": "2012.02936",
+  "caution": false,
+  "entry": "L. L. Gao, J. Bien, and D. Witten. Selective inference for hierarchical clustering. Journal of the American Statistical Association, 119(545):332--342, 2022. DOI 10.1080/01621459.2022.2116331. Preprint arXiv:2012.02936."
+ },
+ {
+  "ref": 82,
+  "doi": "10.1007/s00500-020-05244-5",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "J. C. Garc\u00eda-Garc\u00eda and R. Garc\u00eda-R\u00f3denas. A methodology for automatic parameter-tuning and center selection in density-peak clustering methods. Soft Computing, 25(2):1543--1561, 2021. DOI 10.1007/s00500-020-05244-5."
+ },
+ {
+  "ref": 83,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. Garc\u00eda and F. Herrera. An extension on ``statistical comparisons of classifiers over multiple data sets'' for all pairwise comparisons. Journal of Machine Learning Research, 9:2677--2694, 2008. (JMLR mints no DOI.)"
+ },
+ {
+  "ref": 84,
+  "doi": "10.1109/TEVC.2017.2726341",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. Garza-Fabre, J. Handl, and J. Knowles. An improved and more scalable evolutionary approach to multiobjective clustering. IEEE Transactions on Evolutionary Computation, 22(4):515--535, 2018. DOI 10.1109/TEVC.2017.2726341."
+ },
+ {
+  "ref": 85,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. J. Gates and Y.-Y. Ahn. The impact of random models on clustering similarity. Journal of Machine Learning Research, 18(87):1--28, 2017. (JMLR mints no DOI.)"
+ },
+ {
+  "ref": 86,
+  "doi": "10.1007/978-3-031-09835-2_11",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "F. S. Gharehchopogh and H. Shayanfar. Automatic data clustering using farmland fertility meta-heuristic algorithm. In Advances in Swarm Intelligence, Studies in Computational Intelligence, 2022. DOI 10.1007/978-3-031-09835-2_11."
+ },
+ {
+  "ref": 87,
+  "doi": "10.1145/3186728.3164136",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. Gong, Y. Zhang, and G. Yu. Clustering stream data by exploring the evolution of density mountain. Proceedings of the VLDB Endowment, 2017. DOI 10.1145/3186728.3164136."
+ },
+ {
+  "ref": 88,
+  "doi": "10.1007/s11634-021-00461-8",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "B. Gr\u00fcn, G. Malsiner-Walli, and S. Fr\u00fchwirth-Schnatter. How many data clusters are in the Galaxy data set? Bayesian cluster analysis in action. Advances in Data Analysis and Classification, 16(2):325--349, 2022. DOI 10.1007/s11634-021-00461-8."
+ },
+ {
+  "ref": 89,
+  "doi": "10.1111/rssb.12122",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. G'Sell, S. Wager, A. Chouldechova, and R. Tibshirani. Sequential selection procedures and false discovery rate control. Journal of the Royal Statistical Society Series B, 78(2):423--444, 2016. DOI 10.1111/rssb.12122."
+ },
+ {
+  "ref": 90,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2009.01328",
+  "caution": true,
+  "entry": "S. Guan and M. Loew. An internal cluster validity index using a distance-based separability measure. arXiv:2009.01328, 2020. No journal DOI confirmed."
+ },
+ {
+  "ref": 91,
+  "doi": "10.3150/20-BEJ1275",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Guha, N. Ho, and X. Nguyen. On posterior contraction of parameters and interpretability in Bayesian mixture modeling. Bernoulli, 27(4):2159--2188, 2021. DOI 10.3150/20-BEJ1275."
+ },
+ {
+  "ref": 92,
+  "doi": "10.1109/ICDM.2001.989517",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. Halkidi and M. Vazirgiannis. Clustering validity assessment: finding the optimal partitioning of a data set. In Proceedings of the IEEE International Conference on Data Mining (ICDM), pages 187--194, 2001. DOI 10.1109/ICDM.2001.989517."
+ },
+ {
+  "ref": 93,
+  "doi": "10.3390/a10030105",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "J. H\u00e4m\u00e4l\u00e4inen, S. Jauhiainen, and T. K\u00e4rkk\u00e4inen. Comparison of internal clustering validation indices for prototype-based clustering. Algorithms, 10(3):105, 2017. DOI 10.3390/a10030105."
+ },
+ {
+  "ref": 94,
+  "doi": "10.5555/2981345.2981381",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "G. Hamerly and C. Elkan. Learning the k in k-means. In Advances in Neural Information Processing Systems 16 (NIPS 2003). (No DOI; ACM proceedings identifier 10.5555/2981345.2981381.)"
+ },
+ {
+  "ref": 95,
+  "doi": "10.1109/TEVC.2006.877146",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "J. Handl and J. Knowles. An evolutionary approach to multiobjective clustering. IEEE Transactions on Evolutionary Computation, 11(1):56--76, 2007. DOI 10.1109/TEVC.2006.877146."
+ },
+ {
+  "ref": 96,
+  "doi": "10.1007/978-3-642-37140-0_41",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "J. Handl and J. Knowles. Evidence accumulation in multiobjective data clustering. In EMO 2013, LNCS, pages 543--557. DOI 10.1007/978-3-642-37140-0_41."
+ },
+ {
+  "ref": 97,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2304.06928",
+  "caution": false,
+  "entry": "S. Hao, K. Han, and K.-Y. K. Wong. CiPR: an efficient framework with cross-instance positive relations for generalized category discovery. Transactions on Machine Learning Research, 2024 (community-sourced venue). Preprint arXiv:2304.06928."
+ },
+ {
+  "ref": 98,
+  "doi": "10.1007/s12530-023-09507-y",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. Harifi, M. Khalilian, and J. Mohammadzadeh. Swarm based automatic clustering using nature inspired Emperor Penguins Colony algorithm. Evolving Systems, 2023. DOI 10.1007/s12530-023-09507-y."
+ },
+ {
+  "ref": 99,
+  "doi": "10.1007/s00180-020-00981-5",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "J. M. B. Haslbeck and D. U. Wulff. Estimating the number of clusters via a corrected clustering instability. Computational Statistics, 35(4):1879--1894, 2020. DOI 10.1007/s00180-020-00981-5."
+ },
+ {
+  "ref": 100,
+  "doi": "10.3390/a11100151",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Hedar, A. M. Ibrahim, A. E. Abdel-Hakim, and A. A. Sewisy. K-means cloning: adaptive spherical k-means clustering. Algorithms, 11(10):151, 2018. DOI 10.3390/a11100151."
+ },
+ {
+  "ref": 101,
+  "doi": "10.1016/j.patrec.2015.04.009",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "C. Hennig. What are the true clusters? Pattern Recognition Letters, 64:53--62, 2015. DOI 10.1016/j.patrec.2015.04.009."
+ },
+ {
+  "ref": 102,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2502.00851",
+  "caution": true,
+  "entry": "I. Herdiana, M. A. Kamal, Triyani, M. N. Estri, and Renny. A more precise elbow method for optimum k-means clustering. arXiv:2502.00851, 2025. No journal DOI."
+ },
+ {
+  "ref": 103,
+  "doi": "10.7717/peerj-cs.3315",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "Z. He and X. Zhang. MPV: a density-peak-based method for automated cluster number detection. PeerJ Computer Science, 11:e3315, 2025. DOI 10.7717/peerj-cs.3315."
+ },
+ {
+  "ref": 104,
+  "doi": "10.1109/TIT.2013.2276036",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. Hirai and K. Yamanishi. Efficient computation of normalized maximum likelihood codes for Gaussian mixture models with its applications to clustering. IEEE Transactions on Information Theory, 59(11):7718--7727, 2013. DOI 10.1109/TIT.2013.2276036."
+ },
+ {
+  "ref": 105,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2405.13591",
+  "caution": false,
+  "entry": "B. Hivert, D. Agniel, R. Thi\u00e9baut, and B. P. Hejblum. Practical limitations for real-life application of data fission and data thinning in post-clustering differential analysis. arXiv:2405.13591, 2024--2026."
+ },
+ {
+  "ref": 106,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2403.01606",
+  "caution": false,
+  "entry": "Y. Huang and J. Zelek. A unified model selection technique for spectral clustering based motion segmentation. arXiv:2403.01606, 2024."
+ },
+ {
+  "ref": 107,
+  "doi": "10.1080/01621459.2023.2223793",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "N. Hwang, J. Xu, S. Chatterjee, and S. Bhattacharyya. On the estimation of the number of communities for sparse networks. Journal of the American Statistical Association, 2023--2024. DOI 10.1080/01621459.2023.2223793."
+ },
+ {
+  "ref": 108,
+  "doi": "10.1016/j.ins.2016.12.004",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "R. Hyde, P. Angelov, and A. R. MacKenzie. Fully online clustering of evolving data streams into arbitrarily shaped clusters. Information Sciences, 382--383, 2017. DOI 10.1016/j.ins.2016.12.004."
+ },
+ {
+  "ref": 109,
+  "doi": "10.1016/j.heliyon.2025.e41953",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. M. Ikotun, F. Habyarimana, and A. E. Ezugwu. Cluster validity indices for automatic clustering: a comprehensive review. Heliyon, 11:e41953, 2025. DOI 10.1016/j.heliyon.2025.e41953."
+ },
+ {
+  "ref": 110,
+  "doi": "10.1016/j.ins.2019.03.022",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. K. Islam, M. M. Ahmed, and K. Z. Zamli. A buffer-based online clustering for evolving data stream. Information Sciences, 489, 2019. DOI 10.1016/j.ins.2019.03.022."
+ },
+ {
+  "ref": 111,
+  "doi": "10.1007/978-3-030-85990-9_10",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. M. Islam et al. An online clustering approach for evolving data-stream based on data point density. In Proceedings of the International Conference on Emerging Technologies and Intelligent Systems, 2021. DOI 10.1007/978-3-030-85990-9_10."
+ },
+ {
+  "ref": 112,
+  "doi": "10.1109/TPAMI.2025.3548011",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "H. Jeon et al. Measuring the validity of clustering validation datasets. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. DOI 10.1109/TPAMI.2025.3548011."
+ },
+ {
+  "ref": 113,
+  "doi": "10.1038/s41598-020-58766-1",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "C. R. John, D. Watson, D. Russ, K. Goldmann, M. Ehrenstein, C. Pitzalis, M. Lewis, and M. Barnes. M3C: Monte Carlo reference-based consensus clustering. Scientific Reports, 10:1816, 2020. DOI 10.1038/s41598-020-58766-1."
+ },
+ {
+  "ref": 114,
+  "doi": "10.1145/3449639.3459341",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Jos\u00e9-Garc\u00eda and W. G\u00f3mez-Flores. A survey of cluster validity indices for automatic data clustering using differential evolution. In Proceedings of GECCO '21, pages 314--322. DOI 10.1145/3449639.3459341."
+ },
+ {
+  "ref": 115,
+  "doi": "10.1007/s00357-024-09481-3",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "F. K\u00e4chele and N. Schneider. Cluster validation based on Fisher's linear discriminant analysis. Journal of Classification, 42(1):54--71, 2025. DOI 10.1007/s00357-024-09481-3."
+ },
+ {
+  "ref": 116,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. Kaczy'nska, R. Marion, and R. von Sachs. Comparison of cluster validity indices and decision rules for different degrees of cluster separation. In Proceedings of ESANN 2020, pages 369--374, 2020. (ESANN proceedings carry no DOI.)"
+ },
+ {
+  "ref": 117,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Kalogeratos and A. Likas. Dip-means: an incremental clustering method for estimating the number of clusters. In Advances in Neural Information Processing Systems 25 (NIPS 2012). (No DOI.)"
+ },
+ {
+  "ref": 118,
+  "doi": "10.1016/j.procs.2017.09.100",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. Kapoor, I. Zeya, C. Singhal, and S. J. Nanda. A grey wolf optimizer based automatic clustering algorithm for satellite image segmentation. Procedia Computer Science, 115, 2017. DOI 10.1016/j.procs.2017.09.100."
+ },
+ {
+  "ref": 119,
+  "doi": "10.1016/j.eij.2024.100504",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "I. Khan, H. Daud, N. Zainuddin, R. Sokkalingam, M. Farooq, M. E. Baig, G. Ayub, and M. Zafar. Determining the optimal number of clusters by enhanced gap statistic in k-mean algorithm. Egyptian Informatics Journal, art. 100504, 2024. DOI 10.1016/j.eij.2024.100504."
+ },
+ {
+  "ref": 120,
+  "doi": "10.1016/j.aej.2025.01.034",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "I. Khan, H. Daud, N. Zainuddin, and R. Sokkalingam. Standardizing reference data in gap statistic for selection of optimal number of clusters in k-means algorithm. Alexandria Engineering Journal, 2025. DOI 10.1016/j.aej.2025.01.034."
+ },
+ {
+  "ref": 121,
+  "doi": "10.1111/biom.12647",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "P. K. Kimes, Y. Liu, D. N. Hayes, and J. S. Marron. Statistical significance for hierarchical clustering. Biometrics, 73(3):811--821, 2017. DOI 10.1111/biom.12647."
+ },
+ {
+  "ref": 122,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": true,
+  "entry": "J. M. Kleinberg. An impossibility theorem for clustering. In Advances in Neural Information Processing Systems 15 (NIPS 2002). No DOI exists; do not invent one."
+ },
+ {
+  "ref": 123,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2311.16614",
+  "caution": false,
+  "entry": "P. Kolyvakis and A. Likas. A multivariate unimodality test harnessing the dip statistic of Ma-halanobis distances over random projections. In Proceedings of UAI 2025, PMLR 286:2255--2268. (PMLR mints no DOI.) Preprint arXiv:2311.16614."
+ },
+ {
+  "ref": 124,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": true,
+  "entry": "P. Kontkanen and P. Myllym\u00e4ki. An MDL framework for data clustering. In Advances in Minimum Description Length: Theory and Applications. MIT Press. Chapter DOI not located."
+ },
+ {
+  "ref": 125,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "1111.0352",
+  "caution": false,
+  "entry": "B. Kulis and M. I. Jordan. Revisiting k-means: new algorithms via Bayesian nonparametrics. In Proceedings of ICML 2012. (No DOI minted by the venue.) Preprint arXiv:1111.0352."
+ },
+ {
+  "ref": 126,
+  "doi": "10.1016/j.is.2021.101918",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Lang and E. Schubert. BETULA: fast clustering of large data with improved BIRCH CF-trees. Information Systems, 2021. DOI 10.1016/j.is.2021.101918."
+ },
+ {
+  "ref": 127,
+  "doi": "10.1145/3447548.3467316",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "C. Leiber, L. G. M. Bauer, B. Schelling, C. B\u00f6hm, and C. Plant. Dip-based deep embedded clustering with k-estimation. In Proceedings of the 27th ACM SIGKDD, pages 903--913, 2021. DOI 10.1145/3447548.3467316."
+ },
+ {
+  "ref": 128,
+  "doi": "10.1109/ICDMW65004.2024.00100",
+  "extra_dois": [],
+  "arxiv": "2410.09491",
+  "caution": false,
+  "entry": "C. Leiber, N. Strau , M. Schubert, and T. Seidl. Dying clusters is all you need: deep clustering with an unknown number of clusters. In IEEE ICDM Workshops (ICDMW) 2024. DOI 10.1109/ICDMW65004.2024.00100. Preprint arXiv:2410.09491."
+ },
+ {
+  "ref": 129,
+  "doi": "10.1214/21-EJS1971",
+  "extra_dois": [],
+  "arxiv": "1507.00827",
+  "caution": false,
+  "entry": "C. M. Le and E. Levina. Estimating the number of communities by spectral methods. Electronic Journal of Statistics, 16(1), 2022. DOI 10.1214/21-EJS1971. Preprint arXiv:1507.00827."
+ },
+ {
+  "ref": 130,
+  "doi": "10.1016/j.is.2023.102290",
+  "extra_dois": [],
+  "arxiv": "2309.03751",
+  "caution": false,
+  "entry": "L. Lenssen and E. Schubert. Medoid Silhouette clustering with automatic cluster number selection. Information Systems, 120:102290, 2024. DOI 10.1016/j.is.2023.102290. Preprint arXiv:2309.03751."
+ },
+ {
+  "ref": 131,
+  "doi": "10.1016/S0031-3203(02)00060-2",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Likas, N. Vlassis, and J. J. Verbeek. The global k-means clustering algorithm. Pattern Recognition, 36(2--3):451--461, 2003. DOI 10.1016/S0031-3203(02)00060-2."
+ },
+ {
+  "ref": 132,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "1910.06134",
+  "caution": false,
+  "entry": "J. N. Lim, M. Yamada, W. Jitkrittum, Y. Terada, S. Matsui, and H. Shimodaira. More powerful selective kernel tests for feature selection. arXiv:1910.06134, 2019."
+ },
+ {
+  "ref": 133,
+  "doi": "10.1016/j.physa.2023.128592",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "E. Lippiello, S. Baccari, and P. Bountzis. Determining the number of clusters, before finding clusters, from the susceptibility of the similarity matrix. Physica A, 2023. DOI 10.1016/j.physa.2023.128592."
+ },
+ {
+  "ref": 134,
+  "doi": "10.1198/016214508000000454",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "Y. Liu, D. N. Hayes, A. Nobel, and J. S. Marron. Statistical significance of clustering for high-dimension, low-sample-size data. Journal of the American Statistical Association, 2008. DOI 10.1198/016214508000000454."
+ },
+ {
+  "ref": 135,
+  "doi": "10.1109/TSMCB.2012.2220543",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "Y. Liu, Z. Li, H. Xiong, X. Gao, J. Wu, and S. Wu. Understanding and enhancement of internal clustering validation measures. IEEE Transactions on Cybernetics, 43(3):982--994, 2013. DOI 10.1109/TSMCB.2012.2220543."
+ },
+ {
+  "ref": 136,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2507.08382",
+  "caution": true,
+  "entry": "Y. Liu et al. Two-cluster test. arXiv:2507.08382, 2025. Full author list not independently confirmed."
+ },
+ {
+  "ref": 137,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2603.19657",
+  "caution": true,
+  "entry": "Liu et al. Model selection and parameter estimation of multi-dimensional Gaussian mixture models. arXiv:2603.19657, 2026. Full author list not confirmed."
+ },
+ {
+  "ref": 138,
+  "doi": "10.1109/TPAMI.2007.1085",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "Y. Ma, H. Derksen, W. Hong, and J. Wright. Segmentation of multivariate mixed data via lossy data coding and compression. IEEE Transactions on Pattern Analysis and Machine Intelligence, 29(9):1546--1562, 2007. DOI 10.1109/TPAMI.2007.1085."
+ },
+ {
+  "ref": 139,
+  "doi": "10.1038/s41598-024-59073-9",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Mahmoudi and D. Jemielniak. Proof of biased behavior of normalized mutual information. Scientific Reports, 14:9021, 2024. DOI 10.1038/s41598-024-59073-9."
+ },
+ {
+  "ref": 140,
+  "doi": "10.1186/s40537-023-00709-4",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. S. Mahmud et al. An ensemble method for estimating the number of clusters in a big data set using multiple random samples. Journal of Big Data, 2023. DOI 10.1186/s40537-023-00709-4."
+ },
+ {
+  "ref": 141,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2505.11904",
+  "caution": true,
+  "entry": "L. Mahon and M. Lapata. K*-means: a parameter-free clustering algorithm. arXiv:2505.11904, 2025. Preprint; recorded as a withdrawn ICLR 2026 submission at the time of retrieval."
+ },
+ {
+  "ref": 142,
+  "doi": "10.1007/s11222-014-9500-2",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "G. Malsiner-Walli, S. Fr\u00fchwirth-Schnatter, and B. Gr\u00fcn. Model-based clustering based on sparse finite Gaussian mixtures. Statistics and Computing, 26(1--2):303--324, 2016. DOI 10.1007/s11222-014-9500-2."
+ },
+ {
+  "ref": 143,
+  "doi": "10.1109/MFI49285.2020.9235263",
+  "extra_dois": [],
+  "arxiv": "1911.02282",
+  "caution": false,
+  "entry": "C. Malzer and M. Baum. A hybrid approach to hierarchical density-based cluster selection. In IEEE MFI 2020, pages 223--228. DOI 10.1109/MFI49285.2020.9235263. Preprint arXiv:1911.02282."
+ },
+ {
+  "ref": 144,
+  "doi": "10.1214/21-AOS2072",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "T. Manole and A. Khalili. Estimating the number of components in finite mixture models via the Group-Sort-Fuse procedure. The Annals of Statistics, 49(6):3043--3069, 2021. DOI 10.1214/21-AOS2072."
+ },
+ {
+  "ref": 145,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": true,
+  "entry": "N. Masuyama et al. A parameter-free adaptive resonance theory-based topological clustering algorithm capable of continual learning. Neural Computing and Applications, 2023. The DOI returned by the index is internally inconsistent with the stated year and should be re-checked."
+ },
+ {
+  "ref": 146,
+  "doi": "10.1145/2939672.2939740",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. Maurus and C. Plant. Skinny-dip: clustering in a sea of noise. In Proceedings of the 22nd ACM SIGKDD, pages 1055--1064, 2016. DOI 10.1145/2939672.2939740."
+ },
+ {
+  "ref": 147,
+  "doi": "10.1109/ICDMW.2017.12",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "L. McInnes and J. Healy. Accelerated hierarchical density based clustering. In IEEE ICDM Workshops (ICDMW), pages 33--42, 2017. DOI 10.1109/ICDMW.2017.12."
+ },
+ {
+  "ref": 148,
+  "doi": "10.1007/s00357-019-09314-8",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "V. Melnykov and S. Michael. Clustering large datasets by merging k-means solutions. Journal of Classification, 37(1):97--123, 2020. DOI 10.1007/s00357-019-09314-8."
+ },
+ {
+  "ref": 149,
+  "doi": "10.1142/S0218195907002252",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "N. Memarsadeghi, D. M. Mount, N. S. Netanyahu, and J. Le Moigne. A fast implementation of the ISODATA clustering algorithm. International Journal of Computational Geometry & Applications, 17(1):71--103, 2007. DOI 10.1142/S0218195907002252."
+ },
+ {
+  "ref": 150,
+  "doi": "10.1111/insr.12109",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "G. Menardi. A review on modal clustering. International Statistical Review, 84(3):413--433, 2016. DOI 10.1111/insr.12109."
+ },
+ {
+  "ref": 151,
+  "doi": "10.1007/s44163-026-01195-2",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "E. M. Merigo, A. Anfossi, and D. Chicco. The gap statistic can be misleading when used to evaluate near box shaped clusters in the Euclidean space. Discover Artificial Intelligence, 6(1):334, 2026. DOI 10.1007/s44163-026-01195-2."
+ },
+ {
+  "ref": 152,
+  "doi": "10.1007/978-3-030-89899-1_32",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Mexicano et al. Cluster stability based on centroid displacement for accelerating k-means. In Springer LNCS, 2021. DOI 10.1007/978-3-030-89899-1_32."
+ },
+ {
+  "ref": 153,
+  "doi": "10.1371/journal.pone.0339171",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "N. Migenda, R. M\u00f6ller, and W. Schenck. H-NGPCA: hierarchical clustering of data streams with adaptive number of clusters and adaptive dimensionality. PLOS ONE, 21(1), 2026. DOI 10.1371/journal.pone.0339171."
+ },
+ {
+  "ref": 154,
+  "doi": "10.1515/demo-2022-0150",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "J. W. Miller. Consistency of mixture models with a prior on the number of components. Dependence Modeling, 11(1):20220150, 2023. DOI 10.1515/demo-2022-0150."
+ },
+ {
+  "ref": 155,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "J. W. Miller and M. T. Harrison. A simple example of Dirichlet process mixture inconsistency for the number of components. In Advances in Neural Information Processing Systems 26 (NIPS 2013), pages 199--206. (No DOI.)"
+ },
+ {
+  "ref": 156,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "1309.0024",
+  "caution": false,
+  "entry": "J. W. Miller and M. T. Harrison. Inconsistency of Pitman--Yor process mixtures for the number of components. Journal of Machine Learning Research, 15(96):3333--3370, 2014. (JMLR mints no DOI.) Preprint arXiv:1309.0024."
+ },
+ {
+  "ref": 157,
+  "doi": "10.1080/01621459.2016.1255636",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "J. W. Miller and M. T. Harrison. Mixture models with a prior on the number of components. Journal of the American Statistical Association, 113(521):340--356, 2018. DOI 10.1080/01621459.2016.1255636."
+ },
+ {
+  "ref": 158,
+  "doi": "10.1080/03610926.2022.2032168",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. Modak. A new interpoint-distance-based clustering validity index free of the curse of dimensionality. Communications in Statistics -- Theory and Methods, 2022. DOI 10.1080/03610926.2022.2032168."
+ },
+ {
+  "ref": 159,
+  "doi": "10.1007/978-981-19-0898-9_15",
+  "extra_dois": [],
+  "arxiv": "2110.04660",
+  "caution": false,
+  "entry": "S. O. Mohammadi, A. Kalhor, and H. Bodaghi. K-Splits: improved k-means clustering algorithm to automatically detect the number of clusters. In Computer Networks, Big Data and IoT, LNDECT 117. Springer, 2022. DOI 10.1007/978-981-19-0898-9_15. Preprint arXiv:2110.04660."
+ },
+ {
+  "ref": 160,
+  "doi": "10.1023/A:1023949509487",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. Monti, P. Tamayo, J. Mesirov, and T. Golub. Consensus clustering: a resampling-based method for class discovery and visualization of gene expression microarray data. Machine Learning, 52(1-- 2):91--118, 2003. DOI 10.1023/A:1023949509487."
+ },
+ {
+  "ref": 161,
+  "doi": "10.1007/978-3-031-33374-3_17",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Mourer, F. Forest, M. Lebbah, H. Azzag, and J. Lacaille. Selecting the number of clusters K with a stability trade-off: an internal validation criterion. In PAKDD 2023, LNCS 13935, pages 210--222. Springer. DOI 10.1007/978-3-031-33374-3_17."
+ },
+ {
+  "ref": 162,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "1906.00349",
+  "caution": true,
+  "entry": "Y. Mutoh et al. Comprehensive cluster validity index based on structural simplicity. arXiv:1906.00349, 2019. Full author list not confirmed."
+ },
+ {
+  "ref": 163,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2301.07276",
+  "caution": true,
+  "entry": "A. Neufeld, A. Dharamshi, L. L. Gao, and D. Witten. Data thinning for convolution-closed distributions. Journal of Machine Learning Research, 2023--2024. (JMLR mints no DOI.) Preprint arXiv:2301.07276. Section 6, Example 12 of this paper already applies thinning to selecting k in k-means by held-out loss."
+ },
+ {
+  "ref": 164,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2511.19350",
+  "caution": false,
+  "entry": "N. Neveditsin, P. Lingras, and V. Mago. Scalable parameter-light spectral method for clustering short text embeddings with a cohesion-based evaluation metric. arXiv:2511.19350, 2025."
+ },
+ {
+  "ref": 165,
+  "doi": "10.1007/s42952-022-00195-z",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "H. D. Nguyen, H. Fujisawa, and T. Nguyen. Order selection with confidence for finite mixture models. Journal of the Korean Statistical Society, 2022. DOI 10.1007/s42952-022-00195-z."
+ },
+ {
+  "ref": 166,
+  "doi": "10.1145/2623330.2623726",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "F. Nie, X. Wang, and H. Huang. Clustering and projected clustering with adaptive neighbors. In Proceedings of the 20th ACM SIGKDD, pages 977--986, 2014. DOI 10.1145/2623330.2623726."
+ },
+ {
+  "ref": 167,
+  "doi": "10.1609/aaai.v30i1.10302",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "F. Nie, X. Wang, M. I. Jordan, and H. Huang. The constrained Laplacian rank algorithm for graph-based clustering. In Proceedings of AAAI, 30(1), 2016. DOI 10.1609/aaai.v30i1.10302."
+ },
+ {
+  "ref": 168,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2411.01780",
+  "caution": false,
+  "entry": "F. Nie, Y. Song, J. Xue, R. Wang, and X. Li. Clustering based on density propagation and subcluster merging. arXiv:2411.01780, 2024."
+ },
+ {
+  "ref": 169,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2506.21695",
+  "caution": false,
+  "entry": "O. Nir, J. Tenenbaum, and A. Shamir. Unimodal strategies in density-based clustering. arXiv:2506.21695, 2025. Stated venue ECML-PKDD 2025."
+ },
+ {
+  "ref": 170,
+  "doi": "10.1007/s00521-021-06689-x",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "P. O. Olukanmi, F. Nelwamondo, and T. Marwala. Automatic detection of outliers and the number of clusters in k-means clustering via Chebyshev-type inequalities. Neural Computing and Applications, 34, 2022. DOI 10.1007/s00521-021-06689-x."
+ },
+ {
+  "ref": 171,
+  "doi": "10.1007/s10044-005-0015-5",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. G. H. Omran, A. Salman, and A. P. Engelbrecht. Dynamic clustering using particle swarm optimization with application in image segmentation. Pattern Analysis and Applications, 8:332--344, 2005. DOI 10.1007/s10044-005-0015-5."
+ },
+ {
+  "ref": 172,
+  "doi": "10.3390/app12157515",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. J. Onumanyi, D. N. Molokomme, S. J. Isaac, and A. M. Abu-Mahfouz. AutoElbow: an automatic elbow detection method for estimating the number of clusters in a dataset. Applied Sciences, 12(15):7515, 2022. DOI 10.3390/app12157515."
+ },
+ {
+  "ref": 173,
+  "doi": "10.1016/j.procs.2022.09.326",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. W. Ouertani, G. Manita, and O. Korbaa. Automatic data clustering using hybrid chaos game optimization with particle swarm optimization algorithm. Procedia Computer Science, 207, 2022. DOI 10.1016/j.procs.2022.09.326."
+ },
+ {
+  "ref": 174,
+  "doi": "10.1007/s10586-024-04721-y",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. W. Ouertani, G. Manita, A. Chhabra, and O. Korbaa. Chaotic quasi-opposition marine predator algorithm for automatic data clustering. Cluster Computing, 2025. DOI 10.1007/s10586-024-04721-y."
+ },
+ {
+  "ref": 175,
+  "doi": "10.1007/s41019-019-0091-y",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "C. Patil and I. Baidari. Estimating the optimal number of clusters k in a dataset using data depth. Data Science and Engineering, 2019. DOI 10.1007/s41019-019-0091-y."
+ },
+ {
+  "ref": 176,
+  "doi": "10.1007/978-3-031-78977-9_23",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "J. Pavlopoulos, G. Vardakas, and A. Likas. Revisiting Silhouette aggregation. In Discovery Science (DS 2024), LNCS 15243, pages 354--368. Springer, 2025. DOI 10.1007/978-3-031-78977-9_23."
+ },
+ {
+  "ref": 177,
+  "doi": "10.1080/01621459.1989.10478754",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "R. Peck, L. Fisher, and J. Van Ness. Approximate confidence intervals for the number of clusters. Journal of the American Statistical Association, 84(405):184--191, 1989. DOI 10.1080/01621459.1989.10478754."
+ },
+ {
+  "ref": 178,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": true,
+  "entry": "D. Pelleg and A. W. Moore. X-means: extending k-means with efficient estimation of the number of clusters. In Proceedings of the 17th International Conference on Machine Learning (ICML 2000), pages 727--734. No DOI exists; the Semantic Scholar record carries only DBLP, MAG and CorpusId identifiers."
+ },
+ {
+  "ref": 179,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2603.03235",
+  "caution": true,
+  "entry": "F. J. P\u00e9rez-Reche. The elbow statistic: multiscale clustering statistical significance. arXiv:2603.03235, 2026. Identifier could not be independently re-verified in a later retrieval pass; confirm before citing."
+ },
+ {
+  "ref": 180,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2201.05214",
+  "caution": false,
+  "entry": "B. A. Powell. How I learned to stop worrying and love the curse of dimensionality: an appraisal of cluster validation in high-dimensional spaces. arXiv:2201.05214, 2022."
+ },
+ {
+  "ref": 181,
+  "doi": "10.1109/ACCESS.2022.3215568",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Punhani et al. Binning-based Silhouette approach to find the optimal cluster using k-means. IEEE Access, 10, 2022. DOI 10.1109/ACCESS.2022.3215568."
+ },
+ {
+  "ref": 182,
+  "doi": "10.1109/TIT.2021.3122465",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "Y. Qian, Y. Zhang, and Y. Chen. Structures of spurious local minima in k-means. IEEE Transactions on Information Theory, 2021. DOI 10.1109/TIT.2021.3122465."
+ },
+ {
+  "ref": 183,
+  "doi": "10.1111/rssb.12226",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "P. Radchenko and G. Mukherjee. Convex clustering via fusion penalization. Journal of the Royal Statistical Society Series B, 79(5):1527--1546, 2017. DOI 10.1111/rssb.12226."
+ },
+ {
+  "ref": 184,
+  "doi": "10.1007/978-3-319-24211-8_4",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. Radovanovi'c. Clustering evaluation in high-dimensional data. In Unsupervised Learning Algorithms. Springer, 2016. DOI 10.1007/978-3-319-24211-8_4."
+ },
+ {
+  "ref": 185,
+  "doi": "10.1093/biomet/asy066",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Ramdas, J. Chen, M. J. Wainwright, and M. I. Jordan. A sequential algorithm for false discovery rate control on directed acyclic graphs. Biometrika, 106(1):69--86, 2019. DOI 10.1093/biomet/asy066."
+ },
+ {
+  "ref": 186,
+  "doi": "10.1093/bioinformatics/btaa243",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "J. Raymaekers and R. H. Zamar. Pooled variable scaling for cluster analysis. Bioinformatics, 36(12):3849--3855, 2020. DOI 10.1093/bioinformatics/btaa243."
+ },
+ {
+  "ref": 187,
+  "doi": "10.1109/FOCS.2017.17",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "O. Regev and A. Vijayaraghavan. On learning mixtures of well-separated Gaussians. In FOCS 2017. DOI 10.1109/FOCS.2017.17."
+ },
+ {
+  "ref": 188,
+  "doi": "10.3389/fams.2025.1598165",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "C. Ren, C. Li, Y. Yu, W. Yang, and R. Guo. Density peak clustering algorithm based on weighted mutual K-nearest neighbors. Frontiers in Applied Mathematics and Statistics, 11:1598165, 2025. DOI 10.3389/fams.2025.1598165."
+ },
+ {
+  "ref": 189,
+  "doi": "10.1109/ACCESS.2020.2993295",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. Rezaei and P. Fr\u00e4nti. Can the number of clusters be determined by external indices? IEEE Access, 8, 2020. DOI 10.1109/ACCESS.2020.2993295."
+ },
+ {
+  "ref": 190,
+  "doi": "10.1126/science.1242072",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Rodriguez and A. Laio. Clustering by fast search and find of density peaks. Science, 344(6191):1492--1496, 2014. DOI 10.1126/science.1242072."
+ },
+ {
+  "ref": 191,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. Romano, N. X. Vinh, J. Bailey, and K. Verspoor. Adjusting for chance clustering comparison measures. Journal of Machine Learning Research, 17(134):1--32, 2016. (JMLR mints no DOI.)"
+ },
+ {
+  "ref": 192,
+  "doi": "10.1109/CVPR52688.2022.00963",
+  "extra_dois": [],
+  "arxiv": "2203.14309",
+  "caution": true,
+  "entry": "M. Ronen, S. E. Finder, and O. Freifeld. DeepDPM: deep clustering with an unknown number of clusters. In IEEE/CVF CVPR 2022, pages 9861--9870. The candidate DOI 10.1109/CVPR52688.2022.00963 resolves to an IEEE record that could not be read; the CVF open-access version was used. Preprint arXiv:2203.14309."
+ },
+ {
+  "ref": 193,
+  "doi": "10.1103/PhysRevLett.65.945",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "K. Rose, E. Gurewitz, and G. C. Fox. Statistical mechanics and phase transitions in clustering. Physical Review Letters, 65(8):945, 1990. DOI 10.1103/PhysRevLett.65.945."
+ },
+ {
+  "ref": 194,
+  "doi": "10.1109/5.726788",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "K. Rose. Deterministic annealing for clustering, compression, classification, regression, and related optimization problems. Proceedings of the IEEE, 86(11), 1998. DOI 10.1109/5.726788."
+ },
+ {
+  "ref": 195,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Rosenberg and J. Hirschberg. V-measure: a conditional entropy-based external cluster evaluation measure. In Proceedings of EMNLP-CoNLL 2007, pages 410--420. ACL Anthology D07-1043."
+ },
+ {
+  "ref": 196,
+  "doi": "10.1111/j.1467-9868.2011.00781.x",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "J. Rousseau and K. Mengersen. Asymptotic behaviour of the posterior distribution in overfit-ted mixture models. Journal of the Royal Statistical Society Series B, 73(5):689--710, 2011. DOI 10.1111/j.1467-9868.2011.00781.x."
+ },
+ {
+  "ref": 197,
+  "doi": "10.1016/0377-0427(87)90125-7",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "P. J. Rousseeuw. Silhouettes: a graphical aid to the interpretation and validation of cluster analysis. Journal of Computational and Applied Mathematics, 20:53--65, 1987. DOI 10.1016/0377-0427(87)90125-7."
+ },
+ {
+  "ref": 198,
+  "doi": "10.1109/ACCESS.2024.3350791",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Rykov, R. Cordeiro de Amorim, V. Makarenkov, and B. Mirkin. Inertia-based indices to determine the number of clusters in k-means: an experimental evaluation. IEEE Access, 12:11761--11773, 2024. DOI 10.1109/ACCESS.2024.3350791."
+ },
+ {
+  "ref": 199,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Saade, F. Krzakala, and L. Zdeborov\u00e1. Spectral clustering of graphs with the Bethe Hessian. In Advances in Neural Information Processing Systems 27 (NIPS 2014). (NeurIPS proceedings carry no DOI.)"
+ },
+ {
+  "ref": 200,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2605.29451",
+  "caution": true,
+  "entry": "Saha et al. Linear stability analysis of the Lloyd algorithm on a circle. arXiv:2605.29451, 2026. Full author list not confirmed."
+ },
+ {
+  "ref": 201,
+  "doi": "10.1109/ICTAI.2004.50",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": true,
+  "entry": "S. Salvador and P. Chan. Determining the number of clusters/segments in hierarchical clustering/segmentation algorithms. In 16th IEEE ICTAI, pages 576--584, 2004. DOI 10.1109/ICTAI.2004.50. DOI not machine-confirmed from the publisher record."
+ },
+ {
+  "ref": 202,
+  "doi": "10.1109/CVPR.2019.00914",
+  "extra_dois": [],
+  "arxiv": "1902.11266",
+  "caution": false,
+  "entry": "M. S. Sarfraz, V. Sharma, and R. Stiefelhagen. Efficient parameter-free clustering using first neighbor relations. In IEEE/CVF CVPR 2019, pages 8926--8935. DOI 10.1109/CVPR.2019.00914. Preprint arXiv:1902.11266."
+ },
+ {
+  "ref": 203,
+  "doi": "10.1109/TPAMI.2019.2912599",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. Sarkar and A. K. Ghosh. On perfect clustering of high dimension, low sample size data. IEEE Transactions on Pattern Analysis and Machine Intelligence, 42, 2020. DOI 10.1109/TPAMI.2019.2912599."
+ },
+ {
+  "ref": 204,
+  "doi": "10.1109/ICDCSW.2011.20",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "V. A. Satop\u00e4\u00e4, J. R. Albrecht, D. E. Irwin, and B. Raghavan. Finding a ``kneedle'' in a haystack: detecting knee points in system behavior. In 31st IEEE ICDCS Workshops, pages 166--171, 2011. DOI 10.1109/ICDCSW.2011.20."
+ },
+ {
+  "ref": 205,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2305.04281",
+  "caution": false,
+  "entry": "J. Schindler and M. Barahona. Analysing multiscale clusterings with persistent homology. arXiv:2305.04281, 2023--2025."
+ },
+ {
+  "ref": 206,
+  "doi": "10.1145/3068335",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "E. Schubert, J. Sander, M. Ester, H. P. Kriegel, and X. Xu. DBSCAN revisited, revisited: why and how you should (still) use DBSCAN. ACM Transactions on Database Systems, 42(3):1--21, 2017. DOI 10.1145/3068335."
+ },
+ {
+  "ref": 207,
+  "doi": "10.1145/3606274.3606278",
+  "extra_dois": [],
+  "arxiv": "2212.12189",
+  "caution": false,
+  "entry": "E. Schubert. Stop using the elbow criterion for k-means and how to choose the number of clusters instead. ACM SIGKDD Explorations Newsletter, 25(1):36--42, 2023. DOI 10.1145/3606274.3606278. Note: the suffix .3606280, which appears in the header of the KDD-hosted PDF, was checked against Crossref during the preparation of this review and belongs to a different article in the same issue; the identifier given here is the correct one. Preprint arXiv:2212.12189."
+ },
+ {
+  "ref": 208,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2604.13816",
+  "caution": true,
+  "entry": "D. Semoglou et al. Composite Silhouette: a subsampling-based aggregation strategy. arXiv:2604.13816, 2026. Author list not independently confirmed."
+ },
+ {
+  "ref": 209,
+  "doi": "10.1038/srep06207",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "Y. Senbabao glu, G. Michailidis, and J. Z. Li. Critical limitations of consensus clustering in class discovery. Scientific Reports, 4:6207, 2014. DOI 10.1038/srep06207."
+ },
+ {
+  "ref": 210,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2606.05230",
+  "caution": true,
+  "entry": "M. Shamsi et al. Central description length clustering validation index. arXiv:2606.05230, 2026. Author list not independently confirmed."
+ },
+ {
+  "ref": 211,
+  "doi": "10.1186/s13638-021-01910-w",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "C. Shi, B. Wei, S. Wei, W. Wang, H. Liu, and J. Liu. A quantitative discriminant method of elbow point for the optimal number of clusters in clustering algorithm. EURASIP Journal on Wireless Communications and Networking, 2021(1):31, 2021. DOI 10.1186/s13638-021-01910-w."
+ },
+ {
+  "ref": 212,
+  "doi": "10.1016/j.neunet.2019.08.033",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "L. E. B. Silva, I. Elnabarawy, and D. C. Wunsch. Distributed dual vigilance fuzzy adaptive resonance theory learns online, retrieves arbitrarily-shaped clusters, and mitigates order dependence. Neural Networks, 121, 2019. DOI 10.1016/j.neunet.2019.08.033."
+ },
+ {
+  "ref": 213,
+  "doi": "10.1002/sam.70061",
+  "extra_dois": [],
+  "arxiv": "2511.05983",
+  "caution": false,
+  "entry": "C. Simpson, R. J. G. B. Campello, and E. Stojanovski. Benchmarking of clustering validity measures revisited. Statistical Analysis and Data Mining: An ASA Data Science Journal, 19(1):e70061, 2026. DOI 10.1002/sam.70061. Preprint arXiv:2511.05983."
+ },
+ {
+  "ref": 214,
+  "doi": "10.1111/itor.12001",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "K. S\u00f6rensen. Metaheuristics -- the metaphor exposed. International Transactions in Operational Research, 22(1):3--18, 2015. DOI 10.1111/itor.12001."
+ },
+ {
+  "ref": 215,
+  "doi": "10.1007/s10489-022-03939-w",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "B. Sowan, T.-P. Hong, A. Al-Qerem, M. Alauthman, and N. Matar. Ensembling validation indices to estimate the optimal number of clusters. Applied Intelligence, 53(9):9933--9957, 2023. DOI 10.1007/s10489-022-03939-w."
+ },
+ {
+  "ref": 216,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. Steinbach, G. Karypis, and V. Kumar. A comparison of document clustering techniques. Technical Report 00-034, University of Minnesota, 2000; also KDD-2000 Workshop on Text Mining. (No DOI.)"
+ },
+ {
+  "ref": 217,
+  "doi": "10.1162/0899766042321751",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. Still and W. Bialek. How many clusters? An information-theoretic perspective. Neural Computation, 16(12):2483--2506, 2004. DOI 10.1162/0899766042321751."
+ },
+ {
+  "ref": 218,
+  "doi": "10.1198/016214503000000666",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "C. A. Sugar and G. M. James. Finding the number of clusters in a dataset: an information-theoretic approach. Journal of the American Statistical Association, 98(463):750--763, 2003. DOI 10.1198/016214503000000666."
+ },
+ {
+  "ref": 219,
+  "doi": "10.1080/10618600.2026.2686430",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": true,
+  "entry": "Sun et al. OPTICS: order-preserved test-inverse confidence set for the number of change-points. Journal of Computational and Graphical Statistics, 2026. DOI 10.1080/10618600.2026.2686430. DOI not independently resolved; full author list not confirmed."
+ },
+ {
+  "ref": 220,
+  "doi": "10.1007/s00357-005-0012-9",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "G. J. Sz\u00e9kely and M. L. Rizzo. Hierarchical clustering via joint between-within distances: extending Ward's minimum variance method. Journal of Classification, 22(2):151--183, 2005. DOI 10.1007/s00357-005-0012-9."
+ },
+ {
+  "ref": 221,
+  "doi": "10.1109/CEC.2017.7969513",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "H.-H. Tam, S.-C. Ng, A. K. Lui, and M.-F. Leung. Improved activation schema on automatic clustering using differential evolution algorithm. In IEEE CEC 2017, pages 1749--1756. DOI 10.1109/CEC.2017.7969513."
+ },
+ {
+  "ref": 222,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "1711.00949",
+  "caution": false,
+  "entry": "Y. Terada and H. Shimodaira. Selective inference for the problem of regions via multiscale bootstrap. arXiv:1711.00949, 2017."
+ },
+ {
+  "ref": 223,
+  "doi": "10.1016/j.dib.2020.105501",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. C. Thrun and A. Ultsch. Clustering benchmark datasets exploiting the fundamental clustering problems. Data in Brief, 30:105501, 2020. DOI 10.1016/j.dib.2020.105501."
+ },
+ {
+  "ref": 224,
+  "doi": "10.1111/1467-9868.00293",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "R. Tibshirani, G. Walther, and T. Hastie. Estimating the number of clusters in a data set via the gap statistic. Journal of the Royal Statistical Society Series B, 63(2):411--423, 2001. DOI 10.1111/1467-9868.00293."
+ },
+ {
+  "ref": 225,
+  "doi": "10.1198/106186005X59243",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "R. Tibshirani and G. Walther. Cluster validation by prediction strength. Journal of Computational and Graphical Statistics, 14(3):511--528, 2005. DOI 10.1198/106186005X59243."
+ },
+ {
+  "ref": 226,
+  "doi": "10.1016/j.chemolab.2024.105117",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": true,
+  "entry": "R. Todeschini, D. Ballabio, V. Termopoli, and V. Consonni. Extended multivariate comparison of 68 cluster validity indices. A review. Chemometrics and Intelligent Laboratory Systems, 249:105117, 2024. DOI 10.1016/j.chemolab.2024.105117. DOI not independently resolved."
+ },
+ {
+  "ref": 227,
+  "doi": "10.1371/journal.pone.0269584",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "E. Toffalini et al. Clustering in psychological research: a systematic review and simulation study. PLOS ONE, 17:e0269584, 2022. DOI 10.1371/journal.pone.0269584."
+ },
+ {
+  "ref": 228,
+  "doi": "10.1038/s41598-019-41695-z",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "V. A. Traag, L. Waltman, and N. J. van Eck. From Louvain to Leiden: guaranteeing well-connected communities. Scientific Reports, 9:5233, 2019. DOI 10.1038/s41598-019-41695-z."
+ },
+ {
+  "ref": 229,
+  "doi": "10.1007/s11634-022-00496-5",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "T. Ullmann, A. Beer, M. H\u00fcnem\u00f6rder, T. Seidl, and A.-L. Boulesteix. Over-optimistic evaluation and reporting of novel cluster algorithms: an illustrative study. Advances in Data Analysis and Classification, 17(1):211--238, 2023. DOI 10.1007/s11634-022-00496-5."
+ },
+ {
+  "ref": 230,
+  "doi": "10.1371/journal.pcbi.1010820",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "T. Ullmann, S. Peschel, P. Finger, C. L. M\u00fcller, and A.-L. Boulesteix. Over-optimism in unsupervised microbiome analysis. PLOS Computational Biology, 19(1):e1010820, 2023. DOI 10.1371/journal.pcbi.1010820."
+ },
+ {
+  "ref": 231,
+  "doi": "10.1080/10618600.2020.1796398",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. Valk and G. B. Cybis. U-statistical inference for hierarchical clustering. Journal of Computational and Graphical Statistics, 30(1):133--143, 2020. DOI 10.1080/10618600.2020.1796398."
+ },
+ {
+  "ref": 232,
+  "doi": "10.1016/j.patcog.2025.112357",
+  "extra_dois": [],
+  "arxiv": "2312.11323",
+  "caution": false,
+  "entry": "G. Vardakas, A. Kalogeratos, and A. Likas. UniForCE: the unimodality forest method for clustering and estimation of the number of clusters. Pattern Recognition, 172:112357, 2026. DOI 10.1016/j.patcog.2025.112357. Preprint arXiv:2312.11323."
+ },
+ {
+  "ref": 233,
+  "doi": "10.1007/s10489-024-05636-2",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "G. Vardakas and A. Likas. Global k-means++: an effective relaxation of the global k-means clustering algorithm. Applied Intelligence, 54(19):8876--8888, 2024. DOI 10.1007/s10489-024-05636-2."
+ },
+ {
+  "ref": 234,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2201.02609",
+  "caution": false,
+  "entry": "S. Vaze, K. Han, A. Vedaldi, and A. Zisserman. Generalized category discovery. In IEEE/CVF CVPR 2022. (No DOI on the CVF record.) Preprint arXiv:2201.02609."
+ },
+ {
+  "ref": 235,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2311.17055",
+  "caution": false,
+  "entry": "S. Vaze, A. Vedaldi, and A. Zisserman. No representation rules them all in category discovery. In Advances in Neural Information Processing Systems (NeurIPS 2023). (No DOI.) Preprint arXiv:2311.17055."
+ },
+ {
+  "ref": 236,
+  "doi": "10.1111/sjos.12450",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. Vogt and M. Schmid. Clustering with statistical error control. Scandinavian Journal of Statistics, 48(3):729--760, 2021. DOI 10.1111/sjos.12450."
+ },
+ {
+  "ref": 237,
+  "doi": "10.1007/s11222-007-9033-z",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "U. von Luxburg. A tutorial on spectral clustering. Statistics and Computing, 17(4):395--416, 2007. DOI 10.1007/s11222-007-9033-z."
+ },
+ {
+  "ref": 238,
+  "doi": "10.1561/2200000008",
+  "extra_dois": [],
+  "arxiv": "1007.1075",
+  "caution": false,
+  "entry": "U. von Luxburg. Clustering stability: an overview. Foundations and Trends in Machine Learning, 2(3):235--274, 2010. DOI 10.1561/2200000008. Preprint arXiv:1007.1075."
+ },
+ {
+  "ref": 239,
+  "doi": "10.1093/biomet/asq061",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "J. Wang. Consistent selection of the number of clusters via crossvalidation. Biometrika, 97(4):893-- 904, 2010. DOI 10.1093/biomet/asq061."
+ },
+ {
+  "ref": 240,
+  "doi": "10.3934/mbe.2023528",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "Z. Wang, H. Wang, H. Du, S. Chen, and X. Shi. A novel density peaks clustering algorithm for automatic selection of clustering centers based on K-nearest neighbors. Mathematical Biosciences and Engineering, 20(7):11875--11894, 2023. DOI 10.3934/mbe.2023528."
+ },
+ {
+  "ref": 241,
+  "doi": "10.3390/electronics13101987",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "Y. Wang, K. Dang, R. Yang, L. Li, H. Li, and M. Gong. Multi-objective automatic clustering algorithm based on evolutionary multi-tasking optimization. Electronics, 13(10):1987, 2024. DOI 10.3390/electronics13101987."
+ },
+ {
+  "ref": 242,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": true,
+  "entry": "Z. Wang, J. Yang, J. Guan, C. Zhang, X. Liang, B. Jiang, and W. Sheng. Enhanced density peak clustering for high-dimensional data. In Proceedings of AAAI-25, pages 21411--21419, 2025. No DOI on the retrieved record."
+ },
+ {
+  "ref": 243,
+  "doi": "10.1080/01621459.2025.2546577",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": true,
+  "entry": "Z. Wang et al. Data thinning for Poisson factor models and its applications. Journal of the American Statistical Association, 2026. DOI 10.1080/01621459.2025.2546577. DOI not independently resolved."
+ },
+ {
+  "ref": 244,
+  "doi": "10.1080/01621459.2025.2592926",
+  "extra_dois": [],
+  "arxiv": "2403.14830",
+  "caution": true,
+  "entry": "Z. Wang and C. Ye. Deep clustering evaluation: how to validate internal clustering validation measures. arXiv:2403.14830, 2024. A journal record with DOI 10.1080/01621459.2025.2592926 is indexed but was not confirmed at the publisher."
+ },
+ {
+  "ref": 245,
+  "doi": "10.1371/journal.pone.0325161",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "X. Wei and K. Li. Adaptive density peak clustering based on Delaunay graph. PLOS ONE, 20(6):e0325161, 2025. DOI 10.1371/journal.pone.0325161."
+ },
+ {
+  "ref": 246,
+  "doi": "10.1016/j.patcog.2023.109910",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "N. Wiroonsri. Clustering performance analysis using a new correlation-based cluster validity index. Pattern Recognition, 148:109910, 2024. DOI 10.1016/j.patcog.2023.109910."
+ },
+ {
+  "ref": 247,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2311.00642",
+  "caution": false,
+  "entry": "D. P. Woodruff, P. Zhong, and S. Zhou. Near-optimal k-clustering in the sliding window model. arXiv:2311.00642, 2023; NeurIPS 2023."
+ },
+ {
+  "ref": 248,
+  "doi": "10.48550/arXiv.2512.06522",
+  "extra_dois": [],
+  "arxiv": "2512.06522",
+  "caution": false,
+  "entry": "D. Wu, J. Bien, and S. Panigrahi. Hierarchical clustering with confidence. arXiv:2512.06522, 2025-- 2026. DOI 10.48550/arXiv.2512.06522."
+ },
+ {
+  "ref": 249,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2606.00327",
+  "caution": true,
+  "entry": "K. R. Wycik, T. M. Tang, T. M. Zikry, and G. I. Allen. Cluster analysis with resampling for validation and exploration (CARVE). arXiv:2606.00327, 2026. No DOI."
+ },
+ {
+  "ref": 250,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "A. Xiao, H. Chen, T. Guo, Q. Zhang, and Y. Wang. Deep plug-and-play clustering with unknown number of clusters. Transactions on Machine Learning Research, 2023. OpenReview forum 6rbcq0qacA. (TMLR mints no DOI.)"
+ },
+ {
+  "ref": 251,
+  "doi": "10.1109/34.85677",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "X. L. Xie and G. Beni. A validity measure for fuzzy clustering. IEEE Transactions on Pattern Analysis and Machine Intelligence, 13(8):841--847, 1991. DOI 10.1109/34.85677."
+ },
+ {
+  "ref": 252,
+  "doi": "10.3934/math.20231482",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "X. Xu, H. Liao, and X. Yang. An automatic density peaks clustering based on a density-distance clustering index. AIMS Mathematics, 8(12):28926--28950, 2023. DOI 10.3934/math.20231482."
+ },
+ {
+  "ref": 253,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "1802.06226",
+  "caution": false,
+  "entry": "M. Yamada et al. Post selection inference with incomplete maximum mean discrepancy estimator. arXiv:1802.06226, 2018."
+ },
+ {
+  "ref": 254,
+  "doi": "10.1007/s10618-019-00624-4",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "K. Yamanishi, T. Wu, S. Sugawara, and M. Okada. The decomposed normalized maximum likelihood code-length criterion for selecting hierarchical latent variable models. Data Mining and Knowledge Discovery, 33(4):1017--1058, 2019. DOI 10.1007/s10618-019-00624-4."
+ },
+ {
+  "ref": 255,
+  "doi": "10.1109/FUZZ.2001.1009075",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "M. Yasuda, T. Furuhashi, et al. Fuzzy clustering using deterministic annealing method and its statistical mechanical characteristics. In IEEE International Conference on Fuzzy Systems, 2001. DOI 10.1109/FUZZ.2001.1009075."
+ },
+ {
+  "ref": 256,
+  "doi": "10.1145/3748726",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": true,
+  "entry": "L. Yerbury, R. J. G. B. Campello, et al. On the use of relative validity indices for comparing clustering approaches. ACM Transactions on Knowledge Discovery from Data, 2024. DOI 10.1145/3748726. DOI not independently resolved."
+ },
+ {
+  "ref": 257,
+  "doi": "10.1214/23-EJS2143",
+  "extra_dois": [],
+  "arxiv": "2405.16379",
+  "caution": true,
+  "entry": "Y. J. Yun and R. F. Barber. Selective inference for clustering with unknown variance. Electronic Journal of Statistics, 17, 2023. DOI 10.1214/23-EJS2143. DOI not independently resolved. See also arXiv:2405.16379 for the multiple-pairs extension."
+ },
+ {
+  "ref": 258,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "L. Zelnik-Manor and P. Perona. Self-tuning spectral clustering. In Advances in Neural Information Processing Systems 17 (NIPS 2004). (NeurIPS proceedings carry no DOI.)"
+ },
+ {
+  "ref": 259,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2505.00359",
+  "caution": false,
+  "entry": "Q. Zeng et al. TNStream: applying tightest neighbors to micro-clusters to define multi-density clusters in streaming data. arXiv:2505.00359, 2025."
+ },
+ {
+  "ref": 260,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2012.08987",
+  "caution": false,
+  "entry": "H. Zhang, H. Xu, T.-E. Lin, and R. Lyu. Discovering new intents with deep aligned clustering. In Proceedings of AAAI 2021. Preprint arXiv:2012.08987."
+ },
+ {
+  "ref": 261,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2511.09211",
+  "caution": false,
+  "entry": "L. Zhang, S. Liu, S. Wang, S. Yu, X. Zhu, M. Li, and X. Liu. Parameter-free clustering via self-supervised consensus maximization. In Proceedings of AAAI 2026. Preprint arXiv:2511.09211."
+ },
+ {
+  "ref": 262,
+  "doi": "10.1109/ICCV51070.2023.01524",
+  "extra_dois": [],
+  "arxiv": "2305.06144",
+  "caution": false,
+  "entry": "B. Zhao, X. Wen, and K. Han. Learning semi-supervised Gaussian mixture models for generalized category discovery. In IEEE/CVF ICCV 2023. DOI 10.1109/ICCV51070.2023.01524 (secondary record). Preprint arXiv:2305.06144."
+ },
+ {
+  "ref": 263,
+  "doi": null,
+  "extra_dois": [],
+  "arxiv": "2403.07369",
+  "caution": false,
+  "entry": "H. Zheng, N. Pu, W. Li, N. Sebe, and Z. Zhong. Textual knowledge matters: cross-modality co-teaching for generalized visual class discovery. In ECCV 2024. (No DOI.) Preprint arXiv:2403.07369."
+ },
+ {
+  "ref": 264,
+  "doi": "10.1007/s11063-021-10427-8",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "S. Zhou, F. Liu, and W. Song. Estimating the optimal number of clusters via internal validity index. Neural Processing Letters, 53(2):1013--1034, 2021. DOI 10.1007/s11063-021-10427-8."
+ },
+ {
+  "ref": 265,
+  "doi": "10.1016/j.patrec.2016.05.007",
+  "extra_dois": [],
+  "arxiv": null,
+  "caution": false,
+  "entry": "Q. Zhu, J. Feng, and J. Huang. Natural neighbor: a self-adaptive neighborhood method without parameter K. Pattern Recognition Letters, 80:30--36, 2016. DOI 10.1016/j.patrec.2016.05.007."
+ }
+]
